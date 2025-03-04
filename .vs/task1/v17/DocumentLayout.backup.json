@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Last S Last Y\\Software Architecture and Interoperability\\task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69E53C0B-52D7-48A7-A82E-4814FA220F3F}|task1\\task1.csproj|d:\\last s last y\\software architecture and interoperability\\task1\\task1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E53C0B-52D7-48A7-A82E-4814FA220F3F}|task1\\task1.csproj|solutionrelative:task1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E53C0B-52D7-48A7-A82E-4814FA220F3F}|task1\\task1.csproj|d:\\last s last y\\software architecture and interoperability\\task1\\task1\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E53C0B-52D7-48A7-A82E-4814FA220F3F}|task1\\task1.csproj|solutionrelative:task1\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E53C0B-52D7-48A7-A82E-4814FA220F3F}|task1\\task1.csproj|d:\\last s last y\\software architecture and interoperability\\task1\\task1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69E53C0B-52D7-48A7-A82E-4814FA220F3F}|task1\\task1.csproj|solutionrelative:task1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E53C0B-52D7-48A7-A82E-4814FA220F3F}|task1\\task1.csproj|d:\\last s last y\\software architecture and interoperability\\task1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E53C0B-52D7-48A7-A82E-4814FA220F3F}|task1\\task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E53C0B-52D7-48A7-A82E-4814FA220F3F}|task1\\task1.csproj|d:\\last s last y\\software architecture and interoperability\\task1\\task1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E53C0B-52D7-48A7-A82E-4814FA220F3F}|task1\\task1.csproj|solutionrelative:task1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E53C0B-52D7-48A7-A82E-4814FA220F3F}|task1\\task1.csproj|d:\\last s last y\\software architecture and interoperability\\task1\\task1\\migrations\\20250303233710_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E53C0B-52D7-48A7-A82E-4814FA220F3F}|task1\\task1.csproj|solutionrelative:task1\\migrations\\20250303233710_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E53C0B-52D7-48A7-A82E-4814FA220F3F}|task1\\task1.csproj|d:\\last s last y\\software architecture and interoperability\\task1\\task1\\migrations\\20250304000126_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E53C0B-52D7-48A7-A82E-4814FA220F3F}|task1\\task1.csproj|solutionrelative:task1\\migrations\\20250304000126_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Last S Last Y\\Software Architecture and Interoperability\\task1\\task1\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "task1\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Last S Last Y\\Software Architecture and Interoperability\\task1\\task1\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "task1\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T23:21:30.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250304000126_initial.cs",
+              "DocumentMoniker": "D:\\Last S Last Y\\Software Architecture and Interoperability\\task1\\task1\\Migrations\\20250304000126_initial.cs",
+              "RelativeDocumentMoniker": "task1\\Migrations\\20250304000126_initial.cs",
+              "ToolTip": "D:\\Last S Last Y\\Software Architecture and Interoperability\\task1\\task1\\Migrations\\20250304000126_initial.cs",
+              "RelativeToolTip": "task1\\Migrations\\20250304000126_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T00:01:26.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "D:\\Last S Last Y\\Software Architecture and Interoperability\\task1\\task1\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "task1\\Models\\Categories.cs",
+              "ToolTip": "D:\\Last S Last Y\\Software Architecture and Interoperability\\task1\\task1\\Models\\Categories.cs",
+              "RelativeToolTip": "task1\\Models\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T23:18:33.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250303233710_init.cs",
+              "DocumentMoniker": "D:\\Last S Last Y\\Software Architecture and Interoperability\\task1\\task1\\Migrations\\20250303233710_init.cs",
+              "RelativeDocumentMoniker": "task1\\Migrations\\20250303233710_init.cs",
+              "ToolTip": "D:\\Last S Last Y\\Software Architecture and Interoperability\\task1\\task1\\Migrations\\20250303233710_init.cs",
+              "RelativeToolTip": "task1\\Migrations\\20250303233710_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T23:37:10.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Last S Last Y\\Software Architecture and Interoperability\\task1\\task1\\appsettings.json",
+              "RelativeDocumentMoniker": "task1\\appsettings.json",
+              "ToolTip": "D:\\Last S Last Y\\Software Architecture and Interoperability\\task1\\task1\\appsettings.json",
+              "RelativeToolTip": "task1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T23:19:40.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Last S Last Y\\Software Architecture and Interoperability\\task1\\task1\\Program.cs",
+              "RelativeDocumentMoniker": "task1\\Program.cs",
+              "ToolTip": "D:\\Last S Last Y\\Software Architecture and Interoperability\\task1\\task1\\Program.cs",
+              "RelativeToolTip": "task1\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T23:19:40.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Last S Last Y\\Software Architecture and Interoperability\\task1\\task1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "task1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Last S Last Y\\Software Architecture and Interoperability\\task1\\task1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "task1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T23:15:15.146Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
